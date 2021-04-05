@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "InfernalSpark.brewable.luck.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BrewingRecipeRegistryInjector",
+    "BrewingRecipeRegistryAccessor"
+  ],
+  "client": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

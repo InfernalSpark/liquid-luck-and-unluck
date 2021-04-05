@@ -1,0 +1,21 @@
+{
+  "item.brewableluck.clover" : "Four leaf clover",
+  "item.minecraft.potion.effect.iluck": "Potion of Luck",
+  "item.minecraft.splash_potion.effect.iluck": "Splash Potion of Luck",
+  "item.minecraft.lingering_potion.effect.iluck": "Lingering Potion of Luck",
+  "item.minecraft.potion.effect.long_luck": "Potion of Luck",
+  "item.minecraft.splash_potion.effect.long_luck": "Splash Potion of Luck",
+  "item.minecraft.lingering_potion.effect.long_luck": "Lingering Potion of Luck",
+  "item.minecraft.potion.effect.strong_luck": "Potion of Luck",
+  "item.minecraft.splash_potion.effect.strong_luck": "Splash Potion of Luck",
+  "item.minecraft.lingering_potion.effect.strong_luck": "Lingering Potion of Luck",
+  "item.minecraft.potion.effect.unluck": "Potion of Bad Luck",
+  "item.minecraft.splash_potion.effect.unluck": "Splash Potion of Bad Luck",
+  "item.minecraft.lingering_potion.effect.unluck": "Lingering Potion of Bad Luck",
+  "item.minecraft.potion.effect.long_unluck": "Potion of Bad Luck",
+  "item.minecraft.splash_potion.effect.long_unluck": "Splash Potion of Bad Luck",
+  "item.minecraft.lingering_potion.effect.long_unluck": "Lingering Potion of Bad Luck",
+  "item.minecraft.potion.effect.strong_unluck": "Potion of Bad Luck",
+  "item.minecraft.splash_potion.effect.strong_unluck": "Splash Potion of Bad Luck",
+  "item.minecraft.lingering_potion.effect.strong_unluck": "Lingering Potion of Bad Luck"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "brewableluck",
+  "version": "${version}",
+
+  "name": "Liquid Luck(and unluck)",
+  "description": "This mod adds potions of luck and unluck into minecraft!",
+  "authors": [
+    "InfernalSpark"
+  ],
+  "contact": {
+    "homepage": "https://www.reddit.com/u/Infernal_Spark",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/brewableluck/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "InfernalSpark.brewable.luck.BrewableLuck"
+    ]
+  },
+  "mixins": [
+    "brewableluck.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
